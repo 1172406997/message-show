@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-
+    <mt-cell title="清单记录" value="comeon"></mt-cell>
   </div>
 </template>
 
